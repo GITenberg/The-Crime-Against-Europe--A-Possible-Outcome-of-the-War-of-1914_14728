@@ -1,0 +1,30 @@
+_repo: The-Crime-Against-Europe--A-Possible-Outcome-of-the-War-of-1914_14728
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Casement, Roger
+    alias: Casement, Roger, Sir
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '5652'
+    url: http://www.gutenberg.org/2009/agents/5652
+    wikipedia: http://en.wikipedia.org/wiki/Roger_Casement
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Irish question'
+- !lcsh 'World War, 1914-1918 -- Causes'
+title: 'The Crime Against Europe: A Possible Outcome of the War of 1914'
+url: http://www.gutenberg.org/ebooks/14728
